@@ -11,19 +11,53 @@
 I'm a Computer Science and Engineering student specializing in AI & Machine Learning at KPR Institute of Engineering and Technology, Coimbatore. I enjoy building intelligent systems, practical AI applications, and full-stack software.
 
 
-## 🚀 Featured Projects
 
-### 🏥 [Smart Hospital Patient Assistant](https://github.com/Dhanush-Kumar-007/Smart-Hospital-Patient-Assistant)
-Healthcare-focused project designed to support patients through a smart digital assistant.
+## `02 / FEATURED PROJECTS`
 
-### 🎓 [CertiTrack](https://github.com/DharankumarB/certitrack)
-A certificate tracking and management project.
+# Projects I've Built.
 
-### 🤖 [HR Interview AI](https://github.com/vozlookstudios-stack/HR-Intervw-AI)
-An AI-focused interview project.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏥 Smart Hospital Patient Assistant</h3>
+      A healthcare-focused digital assistant designed to support patients.
+      <br/><br/>
+      <code>Healthcare</code> <code>AI</code>
+      <br/><br/>
+      <a href="https://github.com/Dhanush-Kumar-007/Smart-Hospital-Patient-Assistant">↗ View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>🎓 CertiTrack</h3>
+      A certificate tracking and management project.
+      <br/><br/>
+      <code>Web Development</code> <code>Certification</code>
+      <br/><br/>
+      <a href="https://github.com/DharankumarB/certitrack">↗ View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 HR Interview AI</h3>
+      An AI-focused interview project.
+      <br/><br/>
+      <code>AI</code> <code>Interview Tools</code>
+      <br/><br/>
+      <a href="https://github.com/vozlookstudios-stack/HR-Intervw-AI">↗ View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>💼 Job Website</h3>
+      A web-based job portal with skill-based job and course recommendations.
+      <br/><br/>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <br/><br/>
+      <a href="https://github.com/nitishkpriet/job-website">↗ View Repository</a>
+    </td>
+  </tr>
+</table>
 
-### 💼 [Job Website](https://github.com/nitishkpriet/job-website)
-A web-based job portal project.
+<p align="center">
+  <i>Engineering intelligence. Building for impact.</i>
+</p>
 
 
 
