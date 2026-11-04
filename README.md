@@ -36,6 +36,23 @@ A web-based job portal project.
 **Databases:** SQLite, PostgreSQL  
 **Tools:** Git, GitHub, Google Colab
 
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishkpriet&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkpriet&layout=compact&theme=radical&hide_border=true" height="165" alt="Most used programming languages" />
+</p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+
 ## 📫 Connect With Me
 
 - GitHub: [@nitishkpriet](https://github.com/nitishkpriet)
