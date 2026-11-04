@@ -61,14 +61,40 @@ I'm a Computer Science and Engineering student specializing in AI & Machine Lear
 
 
 
-## 🛠️ Tech Stack
+---
 
-**Languages:** Python, SQL, JavaScript  
-**AI/ML:** Machine Learning, Computer Vision, NumPy, Pandas  
-**Backend:** FastAPI, Flask  
-**Frontend:** React, HTML, CSS  
-**Databases:** SQLite, PostgreSQL  
-**Tools:** Git, GitHub, Google Colab
+## `03 / TECH STACK`
+
+# Tools & Technologies.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌨️ Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI / ML & Data</h3>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow and OpenCV"/>
+      <br/><br/>
+      <code>NumPy</code> <code>Pandas</code> <code>scikit-learn</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" alt="React, Node.js, Flask and FastAPI"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Databases & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,vscode" alt="SQLite, PostgreSQL, Git, GitHub and VS Code"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Learning continuously. Building thoughtfully.</i>
+</p>
 
 
 ---
