@@ -108,10 +108,11 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=nitishkpriet&show_icons=true&theme=radical"
-    alt="GitHub statistics"
-    height="180"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkpriet&bg_color=0d1117&color=f17898&line=c43b65&point=ff7a9e&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
   />
+</p>
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=nitishkpriet&layout=compact&theme=radical"
     alt="Most-used repository languages"
