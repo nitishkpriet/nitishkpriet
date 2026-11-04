@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09070b"/>
+      <stop offset="55%" stop-color="#210914"/>
+      <stop offset="100%" stop-color="#08070b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f04d79"/>
+      <stop offset="100%" stop-color="#8d173d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#a51d49" stop-opacity=".38"/>
+      <stop offset="100%" stop-color="#a51d49" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+  <ellipse cx="900" cy="130" rx="350" ry="220" fill="url(#glow)"/>
+  <rect x="12" y="12" width="1176" height="306" rx="13" fill="none" stroke="#733047" stroke-opacity=".8"/>
+  <path d="M12 57 H1188" stroke="#733047" stroke-opacity=".65"/>
+  <circle cx="1134" cy="34" r="6" fill="#f04d79"/>
+  <circle cx="1155" cy="34" r="6" fill="#e5a14b"/>
+  <circle cx="1176" cy="34" r="6" fill="#58b88a"/>
+  <text x="38" y="39" fill="#d7a7b7" font-family="monospace" font-size="14">~/nitish</text>
+  <text x="48" y="91" fill="#f17898" font-family="monospace" font-size="13" letter-spacing="3">01 / INTRODUCTION</text>
+  <text x="46" y="151" fill="#fff0ed" font-family="Georgia, serif" font-size="47" font-weight="bold">Hello, I'm D. Nitish.</text>
+  <text x="49" y="187" fill="#f17898" font-family="monospace" font-size="17">AI / ML · SOFTWARE DEVELOPMENT · CREATIVE TECHNOLOGY</text>
+  <text x="49" y="222" fill="#d7c5cb" font-family="Arial, sans-serif" font-size="16">Building intelligent solutions and useful digital experiences.</text>
+  <text x="49" y="246" fill="#d7c5cb" font-family="Arial, sans-serif" font-size="16">Exploring AI, web technologies, data and real-world problems.</text>
+  <path d="M49 269 H690" stroke="url(#accent)" stroke-width="3"/>
+  <text x="49" y="296" fill="#f3dbe2" font-family="monospace" font-size="13">LEARN. BUILD. EXPERIMENT. REPEAT.</text>
+  <g transform="translate(825 82)">
+    <rect x="22" y="0" width="240" height="147" rx="9" fill="#09080c" stroke="#d85a7d" stroke-width="2" transform="rotate(-4 142 73)"/>
+    <rect x="34" y="13" width="215" height="119" rx="4" fill="#170a15" transform="rotate(-4 142 73)"/>
+    <path d="M42 104 L91 49 L122 81 L166 35 L237 104 Z" fill="#671832" transform="rotate(-4 142 73)"/>
+    <path d="M42 114 L102 75 L136 94 L190 57 L237 114 Z" fill="#a52a50" transform="rotate(-4 142 73)"/>
+    <circle cx="190" cy="37" r="12" fill="#f17898" opacity=".85"/>
+    <path d="M0 159 L285 159 L318 184 L-29 184 Z" fill="#3b1528" stroke="#a74465"/>
+    <path d="M35 166 H249 M19 173 H266" stroke="#b54b6b" stroke-opacity=".7"/>
+  </g>
+</svg>
