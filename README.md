@@ -1,7 +1,7 @@
 # D Nitish | AI/ML Engineer
 
 <p align="center">
-  <img src="assets/nitish-hero.svg" alt="D Nitish — AI/ML Engineer and Full-Stack Developer" width="100%" />
+  <img src="assets/cinematic-hero.svg" alt="D. Nitish — AI/ML and Software Development" width="100%">
 </p>
 
 <p align="center">
