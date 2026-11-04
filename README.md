@@ -6,156 +6,153 @@
 </p>
 
 <p align="center">
-  <strong>AI/ML Student · Computer Vision · Full-Stack Development</strong>
+  <strong>AI / ML &nbsp;·&nbsp; COMPUTER VISION &nbsp;·&nbsp; SOFTWARE DEVELOPMENT</strong>
+  <br><br>
+  <sub>Computer Science and Engineering · KPR Institute of Engineering and Technology · Coimbatore</sub>
 </p>
 
 <p align="center">
-  Building intelligent solutions. Designing useful digital experiences.
+  <a href="https://github.com/nitishkpriet">
+    <img src="https://img.shields.io/badge/GitHub-nitishkpriet-8d173d?style=flat-square&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-c43b65?style=flat-square" alt="AI and ML focus">
+  <img src="https://img.shields.io/badge/Approach-Learn%20%2F%20Build-30303b?style=flat-square" alt="Learn and build">
 </p>
 
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at KPR Institute of Engineering and Technology, Coimbatore. I enjoy building intelligent systems, practical AI applications, and full-stack software.
-
 ---
 
-## `01 / ABOUT`
+## `01` &nbsp; / &nbsp; ABOUT
 
-### Engineering intelligence. Designing experiences.
+### Building with curiosity. Learning by doing.
 
-- 🧠 Exploring machine learning, computer vision, and applied AI.
-- 💻 Building web applications and interactive user experiences.
-- 🛠️ Learning through hands-on projects and experimentation.
-- 🚀 Improving my problem-solving, software development, and engineering skills.
-
----
-
-## `02 / FEATURED PROJECTS`
-
-### Projects I've Built.
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy exploring intelligent systems, experimenting with new technologies, and turning ideas into practical software.
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <strong>🧠 &nbsp; AI & Machine Learning</strong>
+      <br><br>
+      Exploring machine learning, computer vision, and applied AI.
+    </td>
+    <td width="50%" valign="top">
+      <strong>💻 &nbsp; Software Development</strong>
+      <br><br>
+      Building web applications and strengthening software engineering skills.
+    </td>
+  </tr>
+</table>
+
+---
+
+## `02` &nbsp; / &nbsp; SELECTED PROJECTS
+
+### A selection of my work.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>PROJECT / 001</sub>
       <h3>🏥 Smart Hospital Patient Assistant</h3>
       A healthcare-focused digital assistant designed to support patients.
-      <br/><br/>
-      <code>Healthcare</code> <code>AI</code>
-      <br/><br/>
-      <a href="https://github.com/Dhanush-Kumar-007/Smart-Hospital-Patient-Assistant">↗ View Repository</a>
+      <br><br>
+      <a href="https://github.com/Dhanush-Kumar-007/Smart-Hospital-Patient-Assistant">Explore repository ↗</a>
     </td>
     <td width="50%" valign="top">
+      <sub>PROJECT / 002</sub>
       <h3>🎓 CertiTrack</h3>
       A certificate tracking and management project.
-      <br/><br/>
-      <code>Web Development</code> <code>Certification</code>
-      <br/><br/>
-      <a href="https://github.com/DharankumarB/certitrack">↗ View Repository</a>
+      <br><br>
+      <a href="https://github.com/DharankumarB/certitrack">Explore repository ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <sub>PROJECT / 003</sub>
       <h3>🤖 HR Interview AI</h3>
       An AI-focused interview project.
-      <br/><br/>
-      <code>AI</code> <code>Interview Tools</code>
-      <br/><br/>
-      <a href="https://github.com/vozlookstudios-stack/HR-Intervw-AI">↗ View Repository</a>
+      <br><br>
+      <a href="https://github.com/vozlookstudios-stack/HR-Intervw-AI">Explore repository ↗</a>
     </td>
     <td width="50%" valign="top">
+      <sub>PROJECT / 004</sub>
       <h3>💼 Job Website</h3>
-      A web-based job portal featuring job listings and skill-based job and course recommendations.
-      <br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br/><br/>
-      <a href="https://github.com/nitishkpriet/job-website">↗ View Repository</a>
+      A web-based job portal project.
+      <br><br>
+      <a href="https://github.com/nitishkpriet/job-website">Explore repository ↗</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <em>Engineering intelligence. Building for impact.</em>
+  <sub>FOUR PROJECTS &nbsp; / &nbsp; ONE CONTINUOUS LEARNING JOURNEY</sub>
 </p>
 
 ---
 
-## `03 / TECH STACK`
+## `03` &nbsp; / &nbsp; TECHNOLOGY
 
-### Tools & Technologies.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌨️ Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI / ML & Data</h3>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow and OpenCV"/>
-      <br/><br/>
-      <code>NumPy</code> <code>Pandas</code> <code>scikit-learn</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" alt="React, Node.js, Flask and FastAPI"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Databases & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,vscode" alt="SQLite, PostgreSQL, Git, GitHub and VS Code"/>
-    </td>
-  </tr>
-</table>
+### Tools I work with.
 
 <p align="center">
-  <em>Learning continuously. Building thoughtfully.</em>
+  <strong>LANGUAGES</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML and CSS">
+</p>
+
+<p align="center">
+  <strong>AI / ML & DATA</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow and OpenCV">
+  <br><br>
+  <code>NumPy</code> &nbsp; <code>Pandas</code> &nbsp; <code>scikit-learn</code>
+</p>
+
+<p align="center">
+  <strong>WEB & BACKEND</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" alt="React, Node.js, Flask and FastAPI">
+</p>
+
+<p align="center">
+  <strong>DATABASES & DEVELOPER TOOLS</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,vscode" alt="SQLite, PostgreSQL, Git, GitHub and VS Code">
 </p>
 
 ---
 
-## `04 / CURRENT FOCUS`
+## `04` &nbsp; / &nbsp; CURRENT FOCUS
 
-### What I'm Working On.
+### What I'm exploring.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Artificial Intelligence</h3>
+      <h3>01 / Intelligent Systems</h3>
       Exploring machine learning, computer vision, and practical AI applications.
-      <br/><br/>
-      <code>Python</code> <code>Machine Learning</code>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Software Development</h3>
-      Building web applications and improving my full-stack development skills.
-      <br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <h3>02 / Web Experiences</h3>
+      Improving my ability to build responsive, useful web applications.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ Project Building</h3>
-      Turning ideas into working projects and improving code quality.
-      <br/><br/>
-      <code>Git</code> <code>GitHub</code>
+      <h3>03 / Project Development</h3>
+      Turning concepts into working projects and improving code quality.
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Continuous Learning</h3>
-      Strengthening technical foundations through hands-on practice and experimentation.
-      <br/><br/>
-      <code>Learn</code> <code>Build</code> <code>Improve</code>
+      <h3>04 / Continuous Learning</h3>
+      Strengthening technical foundations through practice and experimentation.
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <em>Curiosity drives the process. Consistency builds the results.</em>
-</p>
-
 ---
 
-## `05 / GITHUB ACTIVITY`
+## `05` &nbsp; / &nbsp; GITHUB ACTIVITY
 
-### My contribution journey.
+### Contributions over time.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%">
@@ -163,14 +160,16 @@ I'm a Computer Science and Engineering student specializing in Artificial Intell
 
 ---
 
-## `06 / CONNECT`
+## `06` &nbsp; / &nbsp; CONNECT
 
 <p align="center">
   <a href="https://github.com/nitishkpriet">
-    <img src="https://img.shields.io/badge/GitHub-nitishkpriet-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-8d173d?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub profile">
   </a>
 </p>
 
 <p align="center">
-  <em>Building, learning, and improving one project at a time.</em>
+  <sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; EXPERIMENT &nbsp; / &nbsp; REPEAT</sub>
+  <br><br>
+  <em>Thanks for visiting my corner of GitHub.</em>
 </p>
