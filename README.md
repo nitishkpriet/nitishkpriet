@@ -12,9 +12,21 @@ I'm a Computer Science and Engineering student specializing in AI & Machine Lear
 
 ## 🚀 Featured Projects
 
-- **Intelligent Poaching Detection System** — Wildlife surveillance using YOLOv8, Flask, and React.
-- **Resume Intelligence System** — Resume parsing and structured candidate extraction using Python and FastAPI.
-- **Business Entity Resolution** — Business record matching and data processing using Python, DuckDB, and Polars.
+## 🚀 Featured Projects
+
+### 🏥 [Smart Hospital Patient Assistant](https://github.com/Dhanush-Kumar-007/Smart-Hospital-Patient-Assistant)
+Healthcare-focused project designed to support patients through a smart digital assistant.
+
+### 🎓 [CertiTrack](https://github.com/DharankumarB/certitrack)
+A certificate tracking and management project.
+
+### 🤖 [HR Interview AI](https://github.com/vozlookstudios-stack/HR-Intervw-AI)
+An AI-focused interview project.
+
+### 💼 [Job Website](https://github.com/nitishkpriet/job-website)
+A web-based job portal project.
+
+
 
 ## 🛠️ Tech Stack
 
