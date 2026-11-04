@@ -10,7 +10,6 @@
 
 I'm a Computer Science and Engineering student specializing in AI & Machine Learning at KPR Institute of Engineering and Technology, Coimbatore. I enjoy building intelligent systems, practical AI applications, and full-stack software.
 
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
