@@ -43,8 +43,8 @@ A web-based job portal project.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishkpriet&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkpriet&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nitishkpriet&show_icons=true&theme=radical" alt="GitHub Statistics" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nitishkpriet&layout=compact&theme=radical" alt="Top Programming Languages" height="180" />
 </p>
 
 
