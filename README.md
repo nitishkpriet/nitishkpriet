@@ -106,13 +106,15 @@
 
 ### My GitHub at a Glance.
 
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkpriet&bg_color=0d1117&color=f17898&line=c43b65&point=ff7a9e&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=nitishkpriet&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f17898&icon_color=f17898&text_color=e6edf3"
+    alt="GitHub statistics for Nitish"
+    width="80%"
   />
 </p>
+
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=nitishkpriet&layout=compact&theme=radical"
     alt="Most-used repository languages"
