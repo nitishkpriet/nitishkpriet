@@ -139,14 +139,44 @@
 
 ---
 
-## `04 / CONNECT`
+
+---
+
+## `04 / CURRENT FOCUS`
+
+### What I'm Working On.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Artificial Intelligence</h3>
+      Exploring machine learning, computer vision, and practical AI applications.
+      <br><br>
+      <code>Python</code> <code>Machine Learning</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Software Development</h3>
+      Building web applications and improving my full-stack development skills.
+      <br><br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Project Building</h3>
+      Turning ideas into working projects and improving code quality.
+      <br><br>
+      <code>Git</code> <code>GitHub</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Continuous Learning</h3>
+      Strengthening technical foundations through hands-on practice and experimentation.
+      <br><br>
+      <code>Learn</code> <code>Build</code> <code>Improve</code>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/nitishkpriet">
-    <img src="https://img.shields.io/badge/GitHub-nitishkpriet-171515?style=for-the-badge&logo=github" alt="GitHub profile">
-  </a>
-</p>
-
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <i>Curiosity drives the process. Consistency builds the results.</i>
 </p>
