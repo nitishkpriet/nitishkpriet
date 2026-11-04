@@ -180,3 +180,27 @@
 <p align="center">
   <i>Curiosity drives the process. Consistency builds the results.</i>
 </p>
+
+---
+
+## `05 / LET'S CONNECT`
+
+### Have an idea? Let's build something.
+
+<p align="center">
+  <a href="https://github.com/nitishkpriet">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Profile-8d173d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
+
+<p align="center">
+  <code>LEARN</code> &nbsp; / &nbsp;
+  <code>CREATE</code> &nbsp; / &nbsp;
+  <code>INNOVATE</code>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my corner of GitHub.</i>
+  <br>
+  <sub>Designed with curiosity. Built with code.</sub>
+</p>
